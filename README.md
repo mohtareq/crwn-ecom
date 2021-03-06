@@ -169,4 +169,4 @@ Live at: https://adam-ecommerce-clothing.herokuapp.com/
 
    - Secure firebase, and add Cart to firestore to check cart when user sign in
 
-   --- To more in redux: https://hackmd.io/qKydh-a7Qomn7kUGpLoqYg
+   --- for more information in redux: https://hackmd.io/qKydh-a7Qomn7kUGpLoqYg
